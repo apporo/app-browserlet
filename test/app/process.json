@@ -1,0 +1,7 @@
+{
+  "apps": [{
+    "name": "app-browserlet-demo",
+    "script": "test/app",
+    "watch": true
+  }]
+}

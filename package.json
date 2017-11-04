@@ -1,0 +1,28 @@
+{
+  "name": "app-browserlet",
+  "version": "0.2.0",
+  "description": "Devebot browserlet layerware",
+  "homepage": "https://github.com/apporo/app-browserlet.git",
+  "author": {
+    "name": "apporo",
+    "email": "apporo@devebot.com",
+    "url": "https://github.com/apporo"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "0.10 || 0.11 || 0.12 || 4"
+  },
+  "keywords": [
+    "devebot",
+    "devebot-plugin"
+  ],
+  "peerDependencies": {
+    "app-webweaver": "^0.2.1",
+    "devebot": "^0.2.2"
+  },
+  "dependencies": {
+    "app-webweaver": "^0.2.1",
+    "devebot": "^0.2.2",
+    "locks": "^0.2.2"
+  }
+}
