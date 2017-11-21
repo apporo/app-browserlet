@@ -21,6 +21,7 @@
     "devebot": "^0.2.2"
   },
   "dependencies": {
+    "browser-run": "^4.0.4",
     "app-webweaver": "^0.2.1",
     "devebot": "^0.2.2",
     "locks": "^0.2.2"
