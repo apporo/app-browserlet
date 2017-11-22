@@ -1,7 +1,8 @@
 module.exports = {
   plugins: {
     appBrowserlet: {
-      contextPath: '/browserlet'
+      contextPath: '/browserlet',
+      tracingRequestName: 'requestId'
     }
   }
 };
