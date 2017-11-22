@@ -25,6 +25,7 @@
     "browser-run": "^4.0.4",
     "devebot": "^0.2.2",
     "ejs": "^2.5.7",
+    "jsonsure": "^0.1.2",
     "locks": "^0.2.2",
     "stream-buffers": "^3.0.1"
   }
