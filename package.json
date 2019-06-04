@@ -1,6 +1,6 @@
 {
   "name": "app-browserlet",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Devebot browserlet layerware",
   "homepage": "https://github.com/apporo/app-browserlet.git",
   "author": {
@@ -17,13 +17,13 @@
     "devebot-plugin"
   ],
   "peerDependencies": {
-    "app-webweaver": "^0.2.1",
-    "devebot": "^0.2.2"
+    "app-webweaver": "0.2.1",
+    "devebot": "0.2.3"
   },
   "dependencies": {
-    "app-webweaver": "^0.2.1",
-    "browser-run": "^4.0.4",
-    "devebot": "^0.2.2",
+    "app-webweaver": "0.2.1",
+    "browser-run": "git+https://git@github.com/pnhung177/browser-run.git#ssl",
+    "devebot": "0.2.3",
     "ejs": "^2.5.7",
     "jsonsure": "^0.1.2",
     "locks": "^0.2.2",
